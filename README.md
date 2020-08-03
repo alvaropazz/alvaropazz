@@ -1,7 +1,7 @@
 # Alvaro Paz
 
 
-## Full Stack Ruby on Rails/ React Developer
+## Full Stack Developer
 
 >[Portfolio](https://alvaropaz.me/) | [LinkedIn](https://www.linkedin.com/in/alvaropaz/) | [Twitter](https://twitter.com/alvaroipazr)
 
