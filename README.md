@@ -3,7 +3,7 @@
 
 ## Full Stack Developer
 
->[LinkedIn](https://www.linkedin.com/in/alvaropaz/) | [Twitter](https://twitter.com/alvaropazz)
+>[LinkedIn](https://www.linkedin.com/in/alvaropaz/) | [New Github](https://github.com/alvar0paz)
 
 ## `Summary`
 
